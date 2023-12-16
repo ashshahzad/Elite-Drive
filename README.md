@@ -1,4 +1,4 @@
-<p>Our project is about booking a ride, Firstly the Main menu will be presented on the screen which
+<p>My project is about booking a ride, Firstly the Main menu will be presented on the screen which
 includes Rider, Driver and Admin, to register yourself as a driver or a rider you need to provide your NIC
 along with your phone number and email address, Limitation has been added that the phone number
 must be of 11 digits and the CNIC number must be of 13 digits. After registering as a rider you need to
