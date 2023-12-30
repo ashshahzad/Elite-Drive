@@ -10,3 +10,5 @@ a linked list and if the user registers as a driver so the name is stored in the
 asked to enter the phone number, CNIC and email address. After reading the file driver will be assigned
 randomly to the rider, rider can also provide the feedback after availing the service. The admin can view
 the records of Driver and Rider while the admin can also read the feedback given by the rider.</p>
+<br>
+<p> the admin username and password is "dsaa" and "dsaa.project" respectively </p>

@@ -455,7 +455,7 @@ public:
 		cin >> phone_number;
 		while (phone_number.length() != 11) {
 	        cout << "Wrong number! Length must be 11 digits"<<endl;
-	        cout << "Enter Phone Numbe: "; cin >> phone_number;
+	        cout << "Enter Phone Number: "; cin >> phone_number;
 	    } 
 		cout << "Enter Email: " ;
 		cin >> email;
@@ -542,9 +542,10 @@ public:
 	}
 
 	void  get_ride(){
-		int random,n,pickup,destination;
+		int r3andom,n,pickup,destination;
 		cout << "\nLets book a ride for you!" << endl;
 		srand(time(0));
+		int random;
 		random=rand(); 
 		cl.addCar("Honda City", "Red", 15); 
 		cl.addCar("Jeep Compass", "Black", 12); 
